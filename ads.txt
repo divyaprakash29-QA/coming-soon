@@ -1,1 +1,1 @@
-paypal-ads-verification=471f34cf00df01c459ca36ec4b795ee3fbea5004
+paypal-ads-verification=bc07cd3b4f2e32fa6b601f211084438878a01c57
